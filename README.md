@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://raw.githubusercontent.com/kike-canaries/canairio_firmware/master/images/collage_vertical.jpg" target="_blank"><img src="https://raw.githubusercontent.com/kike-canaries/canairio_firmware/master/images/collage_vertical.jpg" align="right" width="200" ></a>
+<a href="https://raw.githubusercontent.com/kike-canaries/canairio_firmware/master/images/collage_vertical.jpg" target="_blank"><img src="images/github_social_preview01.png" align="right" width="250" ></a>
 
-- 💬 [My Profile](https://hpsaturn.com)
-- 👨 [CanAirIO project](https://canair.io)
+## Some useful links:
+
+- 💬 [Hpsaturn](https://hpsaturn.com)
+- 👨 [CanAirIO](https://canair.io)
+- 🤔 [Twitter](https://twitter.com/hpsaturn)
 - 🔭 [Linkedin](https://www.linkedin.com/in/hpsaturn/)
 - 📫 [YouTube](https://www.youtube.com/user/hpsaturn)
 
-👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
+## Open Source projects I work on 👇🏻
