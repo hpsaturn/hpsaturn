@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 ## Open Source projects I work on 👇🏻
 
 -->
-<a href="https://raw.githubusercontent.com/kike-canaries/canairio_firmware/master/images/collage_vertical.jpg" target="_blank"><img src="images/github_social_preview02.jpg" ></a>
+<a href="https://hpsaturn.com" target="_blank"><img src="images/github_social_preview02.jpg" ></a>
