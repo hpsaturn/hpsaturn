@@ -1,5 +1,6 @@
 
 
+
 <!--
 **hpsaturn/hpsaturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://play.google.com/store/apps/details?id=hpsaturn.pollutionreporter" target="_blank"><img src="images/electric_controls.jpg"></a>
 
+- 💬 [My Profile](https://hpsaturn.com)
+- 👨 [CanAirIO project](https://canair.io)
+- 🔭 [Linkedin](https://www.linkedin.com/in/hpsaturn/)
+- 📫 [YouTube](https://www.youtube.com/user/hpsaturn)
 
 👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
