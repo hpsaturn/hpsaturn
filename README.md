@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ## Open Source projects I work on 👇🏻
 
 -->
-[![PlatformIO](https://github.com/kike-canaries/canairio_firmware/workflows/PlatformIO/badge.svg)](https://github.com/kike-canaries/canairio_firmware/actions/) ![ViewCount](https://views.whatilearened.today/views/github/hpsaturn/hpsaturn.svg) [![Liberapay Status](http://img.shields.io/liberapay/receives/CanAirIO.svg?logo=liberapay)](https://liberapay.com/CanAirIO)
 
 <a href="https://hpsaturn.com" target="_blank"><img src="images/github_social_preview02.jpg" ></a>
+
+![ViewCount](https://views.whatilearened.today/views/github/hpsaturn/hpsaturn.svg) [![Liberapay Status](http://img.shields.io/liberapay/receives/CanAirIO.svg?logo=liberapay)](https://liberapay.com/CanAirIO)
